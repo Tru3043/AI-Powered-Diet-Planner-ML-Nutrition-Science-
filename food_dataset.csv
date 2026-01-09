@@ -1,0 +1,19 @@
+Food,Calories,Protein,Carbs,Fat,DietType
+Oats,150,5,27,3,Veg
+Paneer,260,18,8,20,Veg
+Tofu,144,15,4,8,Veg
+Dal,198,14,30,5,Veg
+Chickpeas,269,15,45,4,Veg
+Brown Rice,216,5,45,2,Veg
+Roti,120,4,20,3,Veg
+Vegetable Salad,90,3,15,2,Veg
+Apple,95,0,25,0,Veg
+Banana,105,1,27,0,Veg
+Milk,103,8,12,2,Veg
+Curd,98,11,4,3,Veg
+Eggs,155,13,1,11,Non-Veg
+Chicken Breast,165,31,0,4,Non-Veg
+Fish Curry,200,22,5,10,Non-Veg
+Grilled Fish,180,26,0,8,Non-Veg
+Chicken Curry,240,27,6,12,Non-Veg
+Mutton Curry,294,25,0,21,Non-Veg
